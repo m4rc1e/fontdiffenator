@@ -1,3 +1,5 @@
+foobar
+
 [![Build Status](https://travis-ci.org/googlefonts/fontdiffenator.svg?branch=master)](https://travis-ci.org/googlefonts/fontdiffenator)
 
 # Diffenator
